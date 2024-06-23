@@ -1,0 +1,5 @@
+{
+    "extends": ["@notafunction/eslint-config"],
+    "rules": {
+    }
+}

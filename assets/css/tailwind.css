@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    color: #6a6a8e;
+}
+
+@layer base {
+    @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/fonts/Poppins-Regular.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url('/fonts/Poppins-Medium.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/fonts/Poppins-SemiBold.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'Poppins';
+        /* font-style: normal; */
+        font-weight: 700;
+        font-display: swap;
+        src: url('/fonts/Poppins-Bold.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'OpenSans';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/fonts/OpenSans-Regular.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'OpenSans';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url('/fonts/OpenSans-Medium.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'OpenSans';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/fonts/OpenSans-SemiBold.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'OpenSans';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url('/fonts/OpenSans-Bold.woff2') format('woff2');
+    }
+}
