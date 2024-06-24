@@ -9,6 +9,10 @@
                 title="Our Design and Development Process"
                 subtitle="How we do it"
             />
+
+            <div class="flex">
+                <PageServicesTile icon="~/assets/images/branding.svg" />
+            </div>
         </div>
     </section>
 </template>
