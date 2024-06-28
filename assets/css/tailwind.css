@@ -2,8 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+    
+}
+
 body {
     color: #6a6a8e;
+    -webkit-text-size-adjust: 100%;
 }
 
 @layer base {

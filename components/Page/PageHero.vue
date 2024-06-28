@@ -1,5 +1,5 @@
 <template>
-    <section class="relative pt-32 pb-20 bg-gradient">
+    <section class="relative pt-32 pb-20 bg-gradient h-screen flex items-center justify-center">
         <img
             src="~/assets/images/hero-shapes.png"
             class="absolute top-0 left-0 bg-contain max-h-full"
