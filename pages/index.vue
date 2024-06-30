@@ -8,6 +8,7 @@
         <PageSideBySide />
         <PageServices />
         <PageContact />
+        <PagePricing />
         <PageFooter />
     </div>
 </template>
